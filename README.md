@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukeshvudayagiri
-- 👀 I’m interested ... in Big Data Analysis
+- 👀 I’m interested ... in Data Engineering and Big Data Analysis
 - 🌱 I’m currently learning ... Python for Data Analysis and Big Data using Sqoop and Hive
 - 💞️ I’m looking to collaborate on ... Data Analysis/Big Data projects  
 - 📫 How to reach me ... you can mail me mukesh.vudayagiri@gmail.com
